@@ -11,19 +11,29 @@ https://github.com/dungkhac111/Dolist1r.git
 Dolist1r hỗ trợ cho Python 2 và Python 3.
 
 # Module:
-Dolist1r phụ thuộc vào module của Python requests,dnspython và argpare.
+Dolist1r phụ thuộc vào module của Python dnspython và argpare.
 
-**Requests Module**
+**dnspython Module**
 * Install for Windows:
 ```bash
-c:\python27\python.exe -m pip install requests
+c:\python27\python.exe -m pip install dnspython
 ```
 * Install for Ubuntu/Debian:
 ```bash
-sudo apt-get install python-requests
+sudo apt-get install python-dnspython
 ```
 * Install using pip on Linux:
 ```bash
-sudo pip install requests
+sudo pip install dnspython
 ```
 
+**argparse Module**
+* Install for Ubuntu/Debian:
+```bash
+sudo apt-get install python-argparse
+```
+* Install using pip on Linux:
+```bash
+sudo pip install argparse
+```
+#Usage
