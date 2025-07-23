@@ -42,3 +42,7 @@ sudo pip install argparse
 -w hoặc --wordlist: Đường dẫn đến tệp wordlist.
 
 #Examples
+*Quét các tên miền mục tiêu từ tệp wordlist:
+```bash
+python dolist1r.py -d example.com -w wordlist.txt
+```
