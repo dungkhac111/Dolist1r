@@ -6,8 +6,7 @@ tìm kiếm các tên miền phụ của một trang web mục tiêu bằng phư
 # Installation
 ```bash
 https://github.com/dungkhac111/Dolist1r.git
-
-
+```
 # Recommended Python Version:
 Dolist1r currently supports Python 2 and Python 3.
 
