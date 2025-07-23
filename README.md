@@ -8,7 +8,7 @@ tìm kiếm các tên miền phụ của một trang web mục tiêu bằng phư
 https://github.com/dungkhac111/Dolist1r.git
 ```
 # Recommended Python Version:
-Dolist1r currently supports Python 2 and Python 3.
+Dolist1r hỗ trợ cho Python 2 và Python 3.
 
 # Module:
 Dolist1r phụ thuộc vào module của Python requests,dnspython và argpare.
@@ -17,5 +17,13 @@ Dolist1r phụ thuộc vào module của Python requests,dnspython và argpare.
 * Install for Windows:
 ```bash
 c:\python27\python.exe -m pip install requests
+```
+* Install for Ubuntu/Debian:
+```bash
+sudo apt-get install python-requests
+```
+* Install using pip on Linux:
+```bash
+sudo pip install requests
 ```
 
