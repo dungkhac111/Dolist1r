@@ -36,4 +36,9 @@ sudo apt-get install python-argparse
 ```bash
 sudo pip install argparse
 ```
+
 #Usage
+-d hoặc --domain: Tên miền mục tiêu.
+-w hoặc --wordlist: Đường dẫn đến tệp wordlist.
+
+#Examples
