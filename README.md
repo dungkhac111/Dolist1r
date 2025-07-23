@@ -4,6 +4,7 @@ Dolist1r là một công cụ liệt kê tên miền phụ (subdomain enumeratio
 tìm kiếm các tên miền phụ của một trang web mục tiêu bằng phương pháp bruteforce.
 
 # Installation
+```bash
 https://github.com/dungkhac111/Dolist1r.git
 
 # Recommended Python Version:
